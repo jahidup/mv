@@ -1,25 +1,25 @@
 window.SANKALP_IMAGES = {
   hero: [
     { category: "Smart Classroom", url: "https://i.postimg.cc/PJvwPhmg/Whats-App-Image-2026-05-09-at-1-45-21-PM.jpg?auto=format&fit=crop&w=900&q=82" },
-    { category: "Students Learning", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
-    { category: "Computer Lab", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
-    { category: "Robotics Lab", url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=900&q=82" },
-    { category: "Coding Classes", url: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=900&q=82" },
-    { category: "Science Lab", url: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=82" },
-    { category: "Library", url: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=900&q=82" },
-    { category: "Career Guidance", url: "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=900&q=82" }
+    { category: "Students Learning", url: "https://i.postimg.cc/s228q0PB/Whats-App-Image-2026-05-09-at-1-45-23-PM.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Computer Lab", url: "https://i.postimg.cc/8kdHdmMQ/Whats-App-Image-2026-05-09-at-1-45-16-PM.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Robotics Lab", url: "https://i.postimg.cc/hvCQyvKr/Whats-App-Image-2026-05-09-at-1-44-41-PM.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Coding Classes", url: "https://i.postimg.cc/vmM8nMdS/475164509-918072903746273-5817995391037162151-n.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Science Lab", url: "https://i.postimg.cc/gJjWy2ts/Whats-App-Image-2026-05-09-at-1-43-59-PM.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Library", url: "https://i.postimg.cc/TwB3pb2C/Whats-App-Image-2026-05-09-at-1-45-10-PM.jpg?auto=format&fit=crop&w=900&q=82" },
+    { category: "Career Guidance", url: "https://i.postimg.cc/Qt7rYysJ/481997295-941264694760427-376556813891105337-n.jpg?auto=format&fit=crop&w=900&q=82" }
   ],
   campus: [
-    { title: "Smart Classroom", category: "Digital learning", url: "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=1100&q=86" },
-    { title: "Computer Lab", category: "Technology fluency", url: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=86" },
-    { title: "Reading Zone", category: "Focused study", url: "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=900&q=86" },
-    { title: "Innovation Lab", category: "Build & experiment", url: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=900&q=86" },
-    { title: "Collaboration Space", category: "Learn together", url: "https://images.unsplash.com/photo-1529390079861-591de354faf5?auto=format&fit=crop&w=900&q=86" },
-    { title: "Career Guidance", category: "Plan the future", url: "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?auto=format&fit=crop&w=900&q=86" }
+    { title: "Smart Classroom", category: "Digital learning", url: "https://i.postimg.cc/PJvwPhmg/Whats-App-Image-2026-05-09-at-1-45-21-PM.jpg?auto=format&fit=crop&w=1100&q=86" },
+    { title: "Computer Lab", category: "Technology fluency", url: "https://i.postimg.cc/8kdHdmMQ/Whats-App-Image-2026-05-09-at-1-45-16-PM.jpg?auto=format&fit=crop&w=900&q=86" },
+    { title: "Reading Zone", category: "Focused study", url: "https://i.postimg.cc/QCP1NCvZ/Whats-App-Image-2026-05-09-at-2-51-36-PM.jpg?auto=format&fit=crop&w=900&q=86" },
+    { title: "Innovation Lab", category: "Build & experiment", url: "https://i.postimg.cc/gJjWy2ts/Whats-App-Image-2026-05-09-at-1-43-59-PM.jpg?auto=format&fit=crop&w=900&q=86" },
+    { title: "Collaboration Space", category: "Learn together", url: "https://i.postimg.cc/1XyY0CzG/Whats-App-Image-2026-05-09-at-1-44-49-PM.jpg?auto=format&fit=crop&w=900&q=86" },
+    { title: "Career Guidance", category: "Plan the future", url: "https://i.postimg.cc/Qt7rYysJ/481997295-941264694760427-376556813891105337-n.jpg?auto=format&fit=crop&w=900&q=86" }
   ],
   innovation: [
-    { category: "Robotics", url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=88" },
-    { category: "Coding", url: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1200&q=88" },
-    { category: "Science", url: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1200&q=88" }
+    { category: "Robotics", url: "https://i.postimg.cc/4Nkp07vh/Untitled-design-2025-06-22T143112-676.png?auto=format&fit=crop&w=1200&q=88" },
+    { category: "Coding", url: "https://i.postimg.cc/8kdHdmMQ/Whats-App-Image-2026-05-09-at-1-45-16-PM.jpg?auto=format&fit=crop&w=1200&q=88" },
+    { category: "Science", url: "https://i.postimg.cc/hvCQyvKr/Whats-App-Image-2026-05-09-at-1-44-41-PM.jpg?auto=format&fit=crop&w=1200&q=88" }
   ]
 };
