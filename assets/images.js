@@ -1,6 +1,6 @@
 window.SANKALP_IMAGES = {
   hero: [
-    { category: "Smart Classroom", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
+    { category: "Smart Classroom", url: "https://i.postimg.cc/PJvwPhmg/Whats-App-Image-2026-05-09-at-1-45-21-PM.jpg?auto=format&fit=crop&w=900&q=82" },
     { category: "Students Learning", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
     { category: "Computer Lab", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
     { category: "Robotics Lab", url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=900&q=82" },
