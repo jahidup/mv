@@ -1,8 +1,8 @@
 window.SANKALP_IMAGES = {
   hero: [
     { category: "Smart Classroom", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
-    { category: "Students Learning", url: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=900&q=82" },
-    { category: "Computer Lab", url: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=82" },
+    { category: "Students Learning", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
+    { category: "Computer Lab", url: "https://ibb.co/Q3pRD1Td?auto=format&fit=crop&w=900&q=82" },
     { category: "Robotics Lab", url: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=900&q=82" },
     { category: "Coding Classes", url: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=900&q=82" },
     { category: "Science Lab", url: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=82" },
